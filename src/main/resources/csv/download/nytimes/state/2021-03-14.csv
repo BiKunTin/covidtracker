@@ -1,11 +1,11 @@
 state,fips,cases,deaths
 Washington,53,352225,5183
 Illinois,17,1212895,23206
-California,06,3623342,56499
+California,06,3623342,56522
 Arizona,04,832743,16553
 Massachusetts,25,602308,16645
 Wisconsin,55,625556,7178
-Texas,48,2727642,46588
+Texas,48,2727638,46588
 Nebraska,31,205049,2236
 Utah,49,378437,2027
 Oregon,41,159617,2329
@@ -14,7 +14,7 @@ New York,36,1741620,48475
 Rhode Island,44,130502,2567
 Georgia,13,1008542,17665
 New Hampshire,33,78615,1199
-North Carolina,37,887595,11719
+North Carolina,37,883888,11719
 New Jersey,34,838024,23903
 Colorado,08,445953,6118
 Maryland,24,393623,8048
@@ -29,7 +29,7 @@ Pennsylvania,42,970914,24576
 South Carolina,45,533421,8875
 District of Columbia,11,42511,1041
 Kansas,20,300702,4824
-Missouri,29,574796,8770
+Missouri,29,578274,8770
 Vermont,50,16890,214
 Virginia,51,594735,10019
 Connecticut,09,290577,7765

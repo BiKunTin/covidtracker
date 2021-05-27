@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const url = 'https://covid19.mathdro.id/api';
-const url1 = 'http://ec2-3-83-230-148.compute-1.amazonaws.com:8080/'
+const url1 = 'http://localhost:8080'
 const mapurl = '/api/data/';
 
 

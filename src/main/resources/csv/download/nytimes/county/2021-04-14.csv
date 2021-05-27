@@ -510,7 +510,7 @@ Winnebago,Iowa,19189,1357,31
 Washington,Iowa,19183,2491,49
 Wayne,Iowa,19185,519,23
 Warren,Iowa,19181,5523,86
-Zavala,Texas,48507,1877,43
+Zavala,Texas,48507,1850,43
 Sedgwick,Kansas,20173,55347,587
 Scott,Kansas,20171,620,21
 Stevens,Kansas,20189,586,7
@@ -778,7 +778,7 @@ Scott,Tennessee,47151,3040,45
 Wheeler,Texas,48483,529,10
 Wharton,Texas,48481,4001,112
 Rutherford,Tennessee,47149,41703,420
-Webb,Texas,48479,43376,827
+Webb,Texas,48479,43451,829
 Robertson,Tennessee,47147,9538,127
 Washington,Texas,48477,3934,90
 Wrangell City and Borough,Alaska,02275,42,0
@@ -1066,7 +1066,7 @@ Crawford,Indiana,18025,970,15
 Daviess,Indiana,18027,2888,101
 Clay,Indiana,18021,2520,44
 Clinton,Indiana,18023,4155,58
-El Dorado,California,06017,9609,106
+El Dorado,California,06017,9609,108
 Fresno,California,06019,100357,1636
 Contra Costa,California,06013,66666,778
 Del Norte,California,06015,1271,7
@@ -1081,7 +1081,7 @@ Allen,Indiana,18003,38922,691
 Bartholomew,Indiana,18005,7860,158
 Adams,Indiana,18001,3438,53
 Madera,California,06039,16207,239
-Lassen,California,06035,5666,1
+Lassen,California,06035,5666,24
 Los Angeles,California,06037,1227626,23553
 Kings,California,06031,22730,245
 Lake,California,06033,3390,43
@@ -1103,16 +1103,16 @@ Yancey,North Carolina,37199,1543,27
 Columbia,Wisconsin,55021,5656,69
 Butte,California,06007,11497,196
 Wayne,North Carolina,37191,10720,238
-Calaveras,California,06009,2035,50
+Calaveras,California,06009,2035,51
 Wilkes,North Carolina,37193,6422,108
 Dane,Wisconsin,55025,44668,313
-Alpine,California,06003,85,0
+Alpine,California,06003,88,0
 Amador,California,06005,3608,46
 Crawford,Wisconsin,55023,1751,17
 Door,Wisconsin,55029,2774,28
 Alameda,California,06001,84942,1475
 Dodge,Wisconsin,55027,12535,183
-Wake,North Carolina,37183,89213,703
+Wake,North Carolina,37183,84014,703
 Warren,North Carolina,37185,1739,19
 Washington,North Carolina,37187,1035,31
 Watauga,North Carolina,37189,4347,30
@@ -1482,7 +1482,7 @@ Rush,Indiana,18139,1769,24
 Lyon,Minnesota,27083,3450,48
 Haskell,Oklahoma,40061,1245,16
 McPherson,Nebraska,31117,29,1
-Madison,Nebraska,31119,4437,44
+Madison,Nebraska,31119,4174,42
 Lincoln,Minnesota,27081,556,2
 Hardin,Ohio,39065,2626,63
 Spencer,Indiana,18147,2276,31
@@ -2923,7 +2923,7 @@ Culpeper,Virginia,51047,4438,58
 Ripley,Missouri,29181,1083,15
 Cumberland,Virginia,51049,437,9
 St. Clair,Missouri,29185,792,8
-St. Charles,Missouri,29183,42139,475
+St. Charles,Missouri,29183,45763,475
 Wolfe,Kentucky,21237,484,5
 Whitley,Kentucky,21235,4741,48
 Webster,Kentucky,21233,1215,20

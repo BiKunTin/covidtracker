@@ -1,7 +1,7 @@
 .card {
   margin: 0 1% !important;
-  width: 200px;
-  height: 90px;
+  width: 20vh;
+  height: 10vh;
   padding: 10px;
   align-items: center;
 }

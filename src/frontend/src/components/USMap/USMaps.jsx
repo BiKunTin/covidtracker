@@ -653,7 +653,7 @@ const USMaps = ({date, cond}) => {
                     <Grid item xs={3}>
                         {/* {data && date && <Chart nbdate={date} data={data} country="US" cond={cond} />} */}
                         {check2 ?
-                            <Chart nbdate={date} sname={sname} country={state} countyName={countyName} cond={cond} width={"600px"} height={"600px"}/> : null}
+                            <Chart nbdate={date} sname={sname} country={state} countyName={countyName} cond={cond} width={"30vh"} height={"20vh"}/> : null}
                     </Grid>
                     <Grid item xs={6}>
                         <div className="container">
@@ -702,8 +702,8 @@ const USMaps = ({date, cond}) => {
                                     {/*<div className={styles.maps}>*/}
                                         <svg
                                             className="d3-component"
-                                            width={900}
-                                            height={600}
+                                            width={window.innerWidth/2.5}
+                                            height={window.innerHeight/1.5}
                                             ref={myRef}
                                         />
                                     {/*</div>*/}
@@ -714,7 +714,7 @@ const USMaps = ({date, cond}) => {
                                 >
                                     {!check1 ?
                                         // <div className={styles.maps}>
-                                        <Chart nbdate={date} sname={sname} country={state} countyName={countyName} cond={cond} width={"950px"} height={"400px"}/>
+                                        <Chart nbdate={date} sname={sname} country={state} countyName={countyName} cond={cond} width={"20vh"} height={"10vh"}/>
                                         : null}
                                 </div> :null}
                             </div>

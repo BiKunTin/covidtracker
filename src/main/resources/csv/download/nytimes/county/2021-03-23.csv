@@ -510,7 +510,7 @@ Winnebago,Iowa,19189,1331,31
 Washington,Iowa,19183,2427,49
 Wayne,Iowa,19185,509,21
 Warren,Iowa,19181,5305,80
-Zavala,Texas,48507,1867,43
+Zavala,Texas,48507,1835,43
 Sedgwick,Kansas,20173,54491,573
 Scott,Kansas,20171,609,21
 Stevens,Kansas,20189,581,7
@@ -1066,7 +1066,7 @@ Crawford,Indiana,18025,949,14
 Daviess,Indiana,18027,2872,100
 Clay,Indiana,18021,2454,44
 Clinton,Indiana,18023,4034,58
-El Dorado,California,06017,9310,105
+El Dorado,California,06017,9310,107
 Fresno,California,06019,98276,1556
 Contra Costa,California,06013,64752,740
 Del Norte,California,06015,1107,6
@@ -1081,7 +1081,7 @@ Allen,Indiana,18003,37202,679
 Bartholomew,Indiana,18005,7650,156
 Adams,Indiana,18001,3374,52
 Madera,California,06039,15904,231
-Lassen,California,06035,5637,1
+Lassen,California,06035,5637,24
 Los Angeles,California,06037,1215776,22871
 Kings,California,06031,22532,239
 Lake,California,06033,3290,43
@@ -1103,7 +1103,7 @@ Yancey,North Carolina,37199,1499,26
 Columbia,Wisconsin,55021,5522,67
 Butte,California,06007,11211,185
 Wayne,North Carolina,37191,10470,233
-Calaveras,California,06009,1963,49
+Calaveras,California,06009,1963,50
 Wilkes,North Carolina,37193,6244,104
 Dane,Wisconsin,55025,43155,311
 Alpine,California,06003,83,0
@@ -1112,7 +1112,7 @@ Crawford,Wisconsin,55023,1724,17
 Door,Wisconsin,55029,2677,26
 Alameda,California,06001,82769,1370
 Dodge,Wisconsin,55027,12348,182
-Wake,North Carolina,37183,83465,588
+Wake,North Carolina,37183,79395,588
 Warren,North Carolina,37185,1675,18
 Washington,North Carolina,37187,1009,31
 Watauga,North Carolina,37189,4177,30
@@ -2923,7 +2923,7 @@ Culpeper,Virginia,51047,4225,56
 Ripley,Missouri,29181,1043,15
 Cumberland,Virginia,51049,413,9
 St. Clair,Missouri,29185,786,8
-St. Charles,Missouri,29183,40721,462
+St. Charles,Missouri,29183,44391,462
 Wolfe,Kentucky,21237,460,5
 Whitley,Kentucky,21235,4503,42
 Webster,Kentucky,21233,1185,19

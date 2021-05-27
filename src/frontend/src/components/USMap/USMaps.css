@@ -12,8 +12,8 @@ body {
     display: flex;
     flex-direction: column;
     position: relative;
-    width: 950px;
-    height: 700px;
+    width: 90vh;
+    height: 65vh;
     background: #f1f1f1;
     margin: 30px auto 0;
     word-break: break-all;

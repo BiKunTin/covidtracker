@@ -151,7 +151,7 @@ const Combine = () => {
       </Grid>
       <br />
       {/* </div> */}
-      <USMap date={moment(startDate).format('YYYY-MM-DD')} cond={cond} />
+      <USMap date={moment(startDate).format('YYYY-MM-DD')} cond={cond} witdh = "80vh" height = "40vh"/>
     </div>
   );
 };

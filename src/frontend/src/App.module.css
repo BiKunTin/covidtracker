@@ -122,6 +122,8 @@ html {
 /*  -webkit-animation-fill-mode: forwards;*/
 /*}*/
 .button {
+  width: 100%;
+  height: 100%;
   padding: 15px 25px;
   font-size: 15px;
   text-align: center;
@@ -204,8 +206,8 @@ html {
 }
 .skewBtn {
   margin: 0 25px;
-  width: 140px;
-  height: 60px;
+  width: 15vh;
+  height: 5vh;
   outline: none;
   cursor: pointer;
   background: none;

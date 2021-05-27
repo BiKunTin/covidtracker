@@ -7,8 +7,8 @@ import org.springframework.web.bind.annotation.*;
 import tcu.edu.covidtracker.backend.automation.Scheduler;
 import tcu.edu.covidtracker.backend.repository.CovidTrackerRepository;
 
-@CrossOrigin
 @RestController
+@CrossOrigin(origins = "*", allowedHeaders = "*")
 @RequestMapping("/api/data")
 @Api(produces = "application/json", value = "Data needed to populate map of data pertaining to COVID-19")
 public class DataController {
@@ -18,7 +18,7 @@ public class DataController {
 
     @Autowired
     private Scheduler scheduler;
-
+    @CrossOrigin(origins = "*", allowedHeaders = "*")
     @PutMapping("/UpToDate")
     @ApiOperation(value = "Add the new day of data to the database")
     @ApiResponses(value = {
@@ -32,7 +32,7 @@ public class DataController {
             e.printStackTrace();
         }
     }
-
+    @CrossOrigin(origins = "*", allowedHeaders = "*")
     @GetMapping("/USByDate")
     @ApiOperation(value = "Get data for all of the United States", response = ResponseEntity.class)
     @ApiResponses(value = {
@@ -42,7 +42,7 @@ public class DataController {
     public String USByDate(@ApiParam(value = "Date of the data you would like to retrieve") String date ) {
         return mongoRepository.USByDate(date);
     }
-
+    @CrossOrigin(origins = "*", allowedHeaders = "*")
     @GetMapping("/USByDateRange")
     @ApiOperation(value = "Get data for all of the United States", response = ResponseEntity.class)
     @ApiResponses(value = {
@@ -53,7 +53,7 @@ public class DataController {
                                 @ApiParam(value = "End Date") String end) {
         return mongoRepository.USByDateRange(start, end);
     }
-
+    @CrossOrigin(origins = "*", allowedHeaders = "*")
     @GetMapping("/AllStatesByDate")
     @ApiOperation(value = "Get All data for a certain state", response = ResponseEntity.class)
     @ApiResponses(value = {
@@ -64,7 +64,7 @@ public class DataController {
         return mongoRepository.allStatesByDate(date);
     }
 
-
+    @CrossOrigin(origins = "*", allowedHeaders = "*")
     @GetMapping("/OneStateByDate")
     @ApiOperation(value = "Get data for a certain state", response = ResponseEntity.class)
     @ApiResponses(value = {
@@ -76,7 +76,7 @@ public class DataController {
         return mongoRepository.oneStateByDate(date, state);
     }
 
-
+    @CrossOrigin(origins = "*", allowedHeaders = "*")
     @GetMapping("/StateWithCountiesByDateRange")
     @ApiOperation(value = "Get data for a state between certain dates", response = ResponseEntity.class)
     @ApiResponses(value = {
@@ -87,7 +87,7 @@ public class DataController {
                                                     @ApiParam(value = "The id of the State") String state) {
         return mongoRepository.stateWithByDateRange(start, end, state);
     }
-
+    @CrossOrigin(origins = "*", allowedHeaders = "*")
     @GetMapping("/StateNoCountiesByDateRange")
     @ApiOperation(value = "Get data for a state between certain dates", response = ResponseEntity.class)
     @ApiResponses(value = {
@@ -98,7 +98,7 @@ public class DataController {
                                          @ApiParam(value = "The id of the State") String state) {
         return mongoRepository.stateWithoutByDateRange(start, end, state);
     }
-
+    @CrossOrigin(origins = "*", allowedHeaders = "*")
     @GetMapping("/CountyByDate")
     @ApiOperation(value = "Get data for a certain county", response = ResponseEntity.class)
     @ApiResponses(value = {
@@ -110,7 +110,7 @@ public class DataController {
                                   @ApiParam(value = "The name of the county") String county){
         return mongoRepository.countyByDate(date, state, county);
     }
-
+    @CrossOrigin(origins = "*", allowedHeaders = "*")
     @GetMapping("/CountyByDateRange")
     @ApiOperation(value = "Get data for a certain county", response = ResponseEntity.class)
     @ApiResponses(value = {

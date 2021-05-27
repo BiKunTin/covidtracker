@@ -510,7 +510,7 @@ Winnebago,Iowa,19189,1344,31
 Washington,Iowa,19183,2451,49
 Wayne,Iowa,19185,516,23
 Warren,Iowa,19181,5418,85
-Zavala,Texas,48507,1877,43
+Zavala,Texas,48507,1846,43
 Sedgwick,Kansas,20173,54861,581
 Scott,Kansas,20171,617,21
 Stevens,Kansas,20189,583,7
@@ -1066,7 +1066,7 @@ Crawford,Indiana,18025,966,14
 Daviess,Indiana,18027,2880,100
 Clay,Indiana,18021,2481,44
 Clinton,Indiana,18023,4087,58
-El Dorado,California,06017,9448,106
+El Dorado,California,06017,9448,108
 Fresno,California,06019,99602,1622
 Contra Costa,California,06013,65668,774
 Del Norte,California,06015,1218,6
@@ -1081,7 +1081,7 @@ Allen,Indiana,18003,38140,685
 Bartholomew,Indiana,18005,7763,157
 Adams,Indiana,18001,3418,53
 Madera,California,06039,16051,234
-Lassen,California,06035,5652,1
+Lassen,California,06035,5652,24
 Los Angeles,California,06037,1222771,23301
 Kings,California,06031,22669,241
 Lake,California,06033,3350,43
@@ -1103,16 +1103,16 @@ Yancey,North Carolina,37199,1514,27
 Columbia,Wisconsin,55021,5593,68
 Butte,California,06007,11359,193
 Wayne,North Carolina,37191,10575,234
-Calaveras,California,06009,2019,50
+Calaveras,California,06009,2019,51
 Wilkes,North Carolina,37193,6308,105
 Dane,Wisconsin,55025,43843,312
-Alpine,California,06003,85,0
+Alpine,California,06003,88,0
 Amador,California,06005,3576,45
 Crawford,Wisconsin,55023,1734,17
 Door,Wisconsin,55029,2743,26
 Alameda,California,06001,83882,1426
 Dodge,Wisconsin,55027,12436,183
-Wake,North Carolina,37183,85891,684
+Wake,North Carolina,37183,81448,684
 Warren,North Carolina,37185,1701,19
 Washington,North Carolina,37187,1022,31
 Watauga,North Carolina,37189,4301,30
@@ -1482,7 +1482,7 @@ Rush,Indiana,18139,1749,24
 Lyon,Minnesota,27083,3344,48
 Haskell,Oklahoma,40061,1240,11
 McPherson,Nebraska,31117,29,1
-Madison,Nebraska,31119,4437,44
+Madison,Nebraska,31119,4155,42
 Lincoln,Minnesota,27081,546,2
 Hardin,Ohio,39065,2589,63
 Spencer,Indiana,18147,2264,31
@@ -2923,7 +2923,7 @@ Culpeper,Virginia,51047,4325,56
 Ripley,Missouri,29181,1064,15
 Cumberland,Virginia,51049,424,9
 St. Clair,Missouri,29185,790,8
-St. Charles,Missouri,29183,41554,475
+St. Charles,Missouri,29183,45033,475
 Wolfe,Kentucky,21237,465,5
 Whitley,Kentucky,21235,4632,47
 Webster,Kentucky,21233,1200,19

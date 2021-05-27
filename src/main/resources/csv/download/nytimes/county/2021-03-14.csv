@@ -510,7 +510,7 @@ Winnebago,Iowa,19189,1322,31
 Washington,Iowa,19183,2409,48
 Wayne,Iowa,19185,490,21
 Warren,Iowa,19181,5229,79
-Zavala,Texas,48507,1835,39
+Zavala,Texas,48507,1831,39
 Sedgwick,Kansas,20173,54270,556
 Scott,Kansas,20171,605,21
 Stevens,Kansas,20189,580,7
@@ -1081,7 +1081,7 @@ Allen,Indiana,18003,36670,676
 Bartholomew,Indiana,18005,7596,155
 Adams,Indiana,18001,3354,51
 Madera,California,06039,15780,222
-Lassen,California,06035,5629,1
+Lassen,California,06035,5629,24
 Los Angeles,California,06037,1210920,22474
 Kings,California,06031,22378,235
 Lake,California,06033,3234,43
@@ -1112,7 +1112,7 @@ Crawford,Wisconsin,55023,1721,17
 Door,Wisconsin,55029,2643,25
 Alameda,California,06001,82055,1329
 Dodge,Wisconsin,55027,12295,181
-Wake,North Carolina,37183,80904,572
+Wake,North Carolina,37183,77197,572
 Warren,North Carolina,37185,1649,18
 Washington,North Carolina,37187,1004,31
 Watauga,North Carolina,37189,4101,30
@@ -2923,7 +2923,7 @@ Culpeper,Virginia,51047,4160,56
 Ripley,Missouri,29181,1037,15
 Cumberland,Virginia,51049,407,9
 St. Clair,Missouri,29185,782,8
-St. Charles,Missouri,29183,40261,462
+St. Charles,Missouri,29183,43739,462
 Wolfe,Kentucky,21237,450,5
 Whitley,Kentucky,21235,4397,24
 Webster,Kentucky,21233,1175,18
